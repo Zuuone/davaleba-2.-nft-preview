@@ -45,6 +45,11 @@ body {
   display: inline-block;
 }
 
+.equil-h1:hover {
+  cursor: pointer;
+  color: cyan;
+}
+
 .div-h2 {
   width: 302px;
   height: 52px;
@@ -128,6 +133,7 @@ body {
   margin-left: 16px;
 }
 
-.img-hover :hover {
-  border: 2px solid #8bacd9;
+.author-name:hover {
+  cursor: pointer;
+  color: cyan;
 }
